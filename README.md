@@ -20,3 +20,7 @@ $ npm run start
 ```sh
 $ docker build -t my-app:1.0 .
 ```
+
+### Credits
+Inspired from Nana Janaisha's docker tutorial
+Original gitlab repo: https://gitlab.com/nanuchi/techworld-js-docker-demo-app
