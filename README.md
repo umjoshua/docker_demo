@@ -15,3 +15,8 @@ $ npm run start
 ```
 3. The node application will be available at http://localhost:3000
 4. The mongo express will be available at http://localhost:8081
+
+## To build the docker image
+```sh
+$ docker build -t my-app:1.0 .
+```
